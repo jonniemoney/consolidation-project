@@ -4,7 +4,7 @@ How to play the "Tuple Out" Dice Game
 
 ## How to Run
 
-When you download the foler, you will notice a file called `dice_game.py` this file is our main python script. In order to run the program simply run `python` or `python3` with the file path to this `dice_game.py`.
+When you download the folder, you will notice a file called `dice_game.py` this file is our main python script. In order to run the program simply run `python` or `python3` with the file path to this `dice_game.py`.
 
 Ex: `python3 ./dice_game.py`
 
